@@ -1,2 +1,4 @@
 *.jpg
 /Pandas_demo/data
+.vscode
+.csv

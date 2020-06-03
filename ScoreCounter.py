@@ -1,3 +1,4 @@
+# score counter based on patern of integer
 def compute_number_score(number):
     score = 0
     if (number % 3 == 0):

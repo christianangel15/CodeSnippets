@@ -2,3 +2,4 @@
 /Pandas_demo/data
 .vscode
 .csv
+__pycache__

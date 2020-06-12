@@ -3,6 +3,8 @@ import os
 import cv2
 import face_recognition
 
+# Thanks to SentDex
+
 
 def FaceRecognition(TrainingPath, TestingPath, TOL, MODEL):
     FRAME = 3

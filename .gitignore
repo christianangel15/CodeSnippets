@@ -6,3 +6,4 @@ __pycache__/*
 /Pandas_demo/COVID-19
 *.json
 *.sqlite
+/ML_Project

@@ -79,6 +79,6 @@ main(
     '2020/12/15',
     '12:30:01',
     'gcptransferbucket',
-    'AKIA6CICI2VYGPGZRE5N',
-    'ygnVzQrRTBVuCCY2Wsvevdv4SeKKKldAAVQupYI6',
+    'access_key_id',
+    'secret_access_key',
     'awss3databucket')

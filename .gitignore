@@ -8,3 +8,4 @@ __pycache__/*
 *.sqlite
 /ML_Project
 .vs/
+/Pandas_demo/*

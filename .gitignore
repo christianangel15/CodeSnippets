@@ -3,9 +3,9 @@
 *.vscode
 *.csv
 __pycache__/*
-/Pandas_demo/COVID-19
+Pandas_demo/COVID-19
 *.json
 *.sqlite
 /ML_Project
 .vs/
-/Pandas_demo/*
+Pandas_demo\\*.csv

@@ -1,6 +1,5 @@
-from re import error
 import facebook
-token = 'EAAKOQbimtGMBAENTVMfSiTjcYFwtIkF25POSN5oeyM3vCRpujD8IaUaxlf1wvzYXa8ji5BBJISgTeFD47SiJYvSdcZCTUAX2xufFX46Jtdk7Pt362XzHjWFOzmBGBeU157C3notq0MD0AKgs1418yAxDoiRtMtY9hKNvNxLFZBZAnH0RiXaDTZB7dgivNSAZD'
+token = 'Your access token here'
 fbobj = facebook.GraphAPI(access_token=token)
 # try:
 # fbobj.put_object('me', 'feed', message='Posted using Graph API')

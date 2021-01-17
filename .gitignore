@@ -8,4 +8,4 @@ Pandas_demo/COVID-19
 *.sqlite
 /ML_Project
 .vs/
-Pandas_demo\\*.csv
+\\Pandas_demo\\*.csv
